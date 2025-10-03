@@ -10,4 +10,5 @@ export type FamousCategory =
   | 'singers'
   | 'athletes'
   | 'politicians'
+  | 'scientists'
   | 'others';
